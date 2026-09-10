@@ -6,7 +6,7 @@
 
 set.seed(20260727)
 
-PROJECT_DIR <- "/scratch/dsaiz/Yesenia_scData2026"
+PROJECT_DIR <- "/scratch/ybarrer1/Yesenia_scData2026"
 
 # -------------------------------------------------------------------------
 # Dataset version and biological cohort
